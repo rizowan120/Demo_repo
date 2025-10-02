@@ -6,3 +6,8 @@
 ```python
 def hello():
     print("Hello, Markdown!")
+```
+```html
+<!DOCTYPE HTML>
+<html>
+```
